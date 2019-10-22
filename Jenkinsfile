@@ -4,6 +4,7 @@ pipeline {
         stage('First stage'){
             steps{
                 echo 'FS S1'
+                echo 'FS S2'
             }
         }
 
