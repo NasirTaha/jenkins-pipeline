@@ -16,6 +16,7 @@ pipeline {
                 echo 'SS S1'
                 echo 'SS S2'
                 echo 'SS S3'
+                echo 'SS S4'
             }
         }
     }
