@@ -8,6 +8,7 @@ pipeline {
                 echo 'FS S2'
                 echo 'FS S3'
                 echo 'FS S4'
+                echo 'FS S5'
             }
         }
 
